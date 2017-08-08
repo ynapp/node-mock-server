@@ -47,6 +47,8 @@ $ node node_modules/node-mock-server/init
 ### Options
 [node-mock-server options](/doc/readme-options.md)
 
+配置文件: node-mock-server\lib\defaults\options-defaults.js 这个文件中可以根据上面的配置选项进行配置
+
 ### Usage examples
 [node-mock-server usage examples](/doc/readme-usage-examples.md)
 
